@@ -1,6 +1,6 @@
 {
   "name": "hyperapp-intl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Internationalize hyperapp web applications.",
   "main": "lib/index.js",
   "author": "Baptiste Lambert",
