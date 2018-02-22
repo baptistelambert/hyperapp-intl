@@ -4,6 +4,7 @@
   "description": "Internationalize hyperapp web applications.",
   "main": "lib/index.js",
   "author": "Baptiste Lambert",
+  "repository": "https://github.com/baptistelambert/hyperapp-intl",
   "license": "MIT",
   "private": false,
   "scripts": {
