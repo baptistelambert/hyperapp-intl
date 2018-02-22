@@ -5,10 +5,8 @@ export default {
   input: 'src/index.js',
   output: {
     file: 'lib/index.js',
-    format: 'iife',
-    name: 'hyperapp-intl.js'
+    format: 'cjs'
   },
-  sourceMap: 'inline',
   plugins: [
     babel({
       exclude: 'node_modules/**'
